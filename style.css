@@ -13,10 +13,10 @@ body{
 .container{
     background-color: white;
     text-align: center;
-    height: 500px;
+    height: 480px;
     width: 400px;
     padding-top: 1%;
-    margin: 15% 5% 7% 35%;
+    margin: 7% 5% 7% 35%;
     border-radius: 10px;
     box-shadow: 10px 10px;
 }
@@ -36,8 +36,8 @@ body{
 }
 
 .container .datePosted{
-    width: 200px;
-    margin-left: 2px;
+    width: 150px;
+    margin-left: 20px;
     font-family: "customFont1";
 }
 
